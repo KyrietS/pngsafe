@@ -60,7 +60,7 @@ Odzyskaliśmy dokument. Pliki `tajny.pdf` oraz `odzyskany.pdf` są identyczne.
 
 Należy użyć narzędzia **[premake](https://premake.github.io/)** do wygenerowania plików projektu dla wspieranego środowiska programistycznego, np.:\
 `premake5 vs2019` - tworzy rozwiąznie wraz z projektem dla Visual Studio 2019\
-lub pliku Makefile dla systemu Linux. Po więcej opcji wpisz `premake --help` lub zajrzyj na [oficjalną dokumentację](https://github.com/premake/premake-core/wiki/Using-Premake).
+Po więcej opcji wpisz `premake --help` lub zajrzyj na [oficjalną dokumentację](https://github.com/premake/premake-core/wiki/Using-Premake).
 
 Projekt może zostać skompilowany w dwóch konfiguracjach: *Debug* i *Release*. Pliki wynikowe zostaną umieszczone w katalogu `bin/`, który zostanie utworzony w trakcie kompilacji.
 
